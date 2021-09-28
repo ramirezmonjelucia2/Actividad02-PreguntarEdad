@@ -1,5 +1,4 @@
 import { leerTeclado } from './util/entradaTeclado'
-console.log("Hola mundo")
 
 let main = async () => {
     let edad: number
